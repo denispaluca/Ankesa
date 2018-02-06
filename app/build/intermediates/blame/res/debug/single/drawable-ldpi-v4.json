@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    }
+]

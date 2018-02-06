@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/denis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_dd0679b9fe816e32283a334824ac9585a49304c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.melnykov-floatingactionbutton-1.3.0_4b4b9626e1b3e7521b17e46932bd53bbbd91ab15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="783127c8b1d23b84cccc3dc776ca4637d4aba900">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.0.1_24fb715be6c6620408c63ae8cfaf2c08da099933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.github.coyarzun89/fabtransitionactivity/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c36a55900bd590cb464492c436d7d1aa5f9854d">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.github.coyarzun89-fabtransitionactivity-0.2.0_d3df68f3fdcf4613e8a03b536904465ffa365204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/it.michelelacorte.scrollableappbar/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="357fdf65e9681c05ce533e5792aef699ba3a9dc1">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/it.michelelacorte.scrollableappbar-library-1.0.0_412f59f18201dc69ff7cf73efefce5840511aaeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_331301e392d0e682569bc98a5c9fb1ba0fe1f380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/mail_983ae9e9fe456d1b453254920e7a7cb1be96f15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_fc260d4d2932622e17d01e4a7685d264718ef2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_ff263a4600326791b62fb8bda028752e10042839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a923b749dbe8f0f7989fd05332a0a8792806245">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.sandrios.android-sandriosCamera-1.0.8_b86919656cac2313bb1ef707005cbcbe4a09f06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_f5fc9fd5441a4779319e8b610691ba1b43b9ae86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/me.biubiubiu.justifytext/library/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69ee8c3f146ba6b2ead91fea61a283b19cfbf387">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/me.biubiubiu.justifytext-library-1.1_185bb725ecd26e87c2d8734412b97e33cc44531a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_c8faf86663d2b07b8f82195d1b27295ede30b62c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/glide-3.6.1_9b5c638f18d46db779ec911ca1352b3c4650dbbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_5cf5edd9de3f727ed6990c009ca37c44ef9d8a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_a02597fadb7332a1a8bacad558d12715a8de420e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.ernestoyaquello.stepperform/vertical-stepper-form/0.9.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db114c37d81d7368454a3746e90bb1a393cce084">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.ernestoyaquello.stepperform-vertical-stepper-form-0.9.9_db87992a1fa0c2cae1031d5b9323a5a9c359a48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_fa94c24e3e1322289d7cc828fe6fa02568edbe0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_a48de448e4343843ca5582f3ce1d9bb3ac6533dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/gun0912.ted/tedpermission/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="703c95818950344722c5d545e0763f4ae92625ce">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/gun0912.ted-tedpermission-1.0.2_9672ccc99903b4d11633560f5915a9ef5ecb78fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_b2a71b2d8d6cc211dd2f6cc6156cff39753d544c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-gmail/v1-rev53-1.22.0/64a76c767429c99e5b159fe03e561a9b9a34b4a2/google-api-services-gmail-v1-rev53-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64a76c767429c99e5b159fe03e561a9b9a34b4a2">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-api-services-gmail-v1-rev53-1.22.0_8b9641b17334d15d5c5009053589b54d175f96dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.wajahatkarim3.EasyFlipView/EasyFlipView/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f64aed35ba7d1885067d2887813579e7a6c182a5">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.wajahatkarim3.EasyFlipView-EasyFlipView-1.0.0_f2076fc151e007022d9afc4f034725f93eb4442d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/additionnal_b0355f27ab1694d3faa577a09380be2425d175e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-studio/gradle/m2repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_50fc2166f4c8b73721019f051e7e50075918b3aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_d2e31d9d308d680c62f694178a0f888e0dc09307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.22.0_77c5d25c2540a5c54b75669ded62dad54b3f44ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/library-2.4.0_255603e0e2faf8dcb8da87077d851dd595a12b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_743d3ec98df5422b703c9a7883b8320e4328116e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_7611c3a66a392eb6567a41c29493d747e124d578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_85c5384a7712610277969facdc3ad75d231168ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c62423966e97071131e9c16d89ffaa003fe6a5d1">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/pub.devrel-easypermissions-0.2.1_2ae65752168cf3b35b53dcbacb1e2dcb647dbf96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/okio-1.9.0_81db322b6c00ece2e0b6446580f3a7708ed47ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_67a6b6fe461e957dd76293f5ee846d46422d3abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.22.0_4e6c1f30072cf7e836b8ee8cccd31130289adef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-http-client-1.22.0_15ca509030b8fee45bb4cd680608cf3064e315b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_9b6791e534d34c3cd59dc5aebf2a913eef187994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="515960f41b2032bbff45af39c0c9628db4956d3e">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.yalantis-ucrop-2.2.0_67bbbffed0187c5ca9afe57b7f84007e62f15c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_a03c7be059e8409cc5a9bd06c494f80a349efcb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_5566e27d30c8ca6cdeab39ee60396342731d3fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/otto-1.3.7_5313eb8d5c642e3f725b268bb491fc148c7bb80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_391c6ff0e33ee5635cbe0bda564a4283f63d81f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_13a580c1c874887c1d85c99690303a4dc6f9fd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.github.vatsaldesai92/MyDynamicToastLibrary/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="14327755bf7ff2ab58ee9239ad3c9e3ee61ec82a">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.github.vatsaldesai92-MyDynamicToastLibrary-1.0.1_de806235fe8513f3730796ef69443c98ee884840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_613214678d7ebe02ec919471a8206ea98b5c08dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.github.rubensousa/raiflatbutton/0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a26732b3684179d67fed7a5cfb7a1bc74f764bf">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.github.rubensousa-raiflatbutton-0.1_2b8aa7ba9c240a50f5247b3db3546e3a2dc054d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/activation_33ab1bdccd0734ff5b8473f9bb608b0d0298d61a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="736afb22391a31d5fb14d282179c06c5649c46fe">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.yarolegovich-lovely-dialog-1.0.4_de0f3724701dc6a68a9cac37068f82b1acf25937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_13d271a14f7b29ebc9dfd93a2f5f184929c7945e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_190279bd7c58de2a55f047beaefe50e587472ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_cb70ce41173fada749224417114ad8904307e6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e01297e21f918ce3de5f20f1b7ab5682f125ff4">
+        <dex dex="/home/denis/Desktop/Ankesa2/app/build/intermediates/pre-dexed/debug/com.github.ozodrukh-CircularReveal-1.3.1_58224e5cf7803450f971fb4cd57264aa236e9bd2.jar" />
+    </item>
+
+</items>

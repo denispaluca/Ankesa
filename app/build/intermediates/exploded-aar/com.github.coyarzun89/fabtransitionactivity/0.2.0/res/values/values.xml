@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FooterLayout"><attr format="color" name="ft_color"/><attr format="integer" name="ft_anim_duration"/><attr format="enum" name="ft_container_gravity"><enum name="start" value="0"/><enum name="center" value="1"/><enum name="end" value="2"/></attr><attr format="enum" name="ft_fab_type"><enum name="mini" value="40"/><enum name="normal" value="56"/></attr></declare-styleable>
+    <dimen name="elevation">4dp</dimen>
+    <string name="app_name">FabTransitionActivity</string>
+</resources>

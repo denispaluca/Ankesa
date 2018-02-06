@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialog_progress.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/item_footer_confirm.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/item_footer_confirm.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/vertical_stepper_form_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.ernestoyaquello.stepperform/vertical-stepper-form/0.9.9/res/layout/vertical_stepper_form_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/ucrop_aspect_ratio.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/layout/ucrop_aspect_ratio.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/view_title_and_message.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/view_title_and_message.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialog_text_input.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/dialog_text_input.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/ucrop_controls.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/layout/ucrop_controls.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialog_info.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/dialog_info.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/ucrop_activity_photobox.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/layout/ucrop_activity_photobox.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/generic_camera_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/layout/generic_camera_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialog_choice.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/dialog_choice.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/item_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/flash_card_layout_back.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/flash_card_layout_back.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/step_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.ernestoyaquello.stepperform/vertical-stepper-form/0.9.9/res/layout/step_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/ucrop_view.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/layout/ucrop_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/my_dynamic_toast.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.github.vatsaldesai92/MyDynamicToastLibrary/1.0.1/res/layout/my_dynamic_toast.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/flash_card_layout_front.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/flash_card_layout_front.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/image_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/layout/image_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/user_control_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/layout/user_control_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialog_custom.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/dialog_custom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/id_way_view.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/id_way_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/capturesignature.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/capturesignature.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/ucrop_layout_scale_wheel.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/layout/ucrop_layout_scale_wheel.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/bottom_sheet_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.github.coyarzun89/fabtransitionactivity/0.2.0/res/layout/bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/view_color_area.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/view_color_area.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialog_standard.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/dialog_standard.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/activity_blank.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/activity_blank.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/rrethnesh_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/rrethnesh_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/ucrop_layout_rotate_wheel.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/layout/ucrop_layout_rotate_wheel.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/dialoglayout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/dialoglayout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/item_simple_text.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/item_simple_text.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/captcha_dialog_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/captcha_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/password_dialog_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/src/main/res/layout/password_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/item_simple_text_multichoice.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/res/layout/item_simple_text_multichoice.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/activity_preview.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/layout/activity_preview.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/camera_control_panel_layout.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/layout/camera_control_panel_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_text_input_password_icon.xml"
+    }
+]

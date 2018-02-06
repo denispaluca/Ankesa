@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RaiflatButton"><attr format="boolean" name="flatten"/></declare-styleable>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="button_translation">4dp</dimen>
+    <style name="RaiflatButtonPrimaryStyle" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="colorControlNormal">?attr/colorPrimary</item>
+    </style>
+</resources>

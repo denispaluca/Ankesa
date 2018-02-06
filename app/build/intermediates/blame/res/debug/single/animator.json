@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/animator/animation_flip_in.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.wajahatkarim3.EasyFlipView/EasyFlipView/1.0.0/res/animator/animation_flip_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/Ankesa2/app/build/intermediates/res/merged/debug/animator/animation_flip_out.xml",
+        "source": "/home/denis/Desktop/Ankesa2/app/build/intermediates/exploded-aar/com.wajahatkarim3.EasyFlipView/EasyFlipView/1.0.0/res/animator/animation_flip_out.xml"
+    }
+]

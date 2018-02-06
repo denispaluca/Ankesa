@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ankesa</string>
+    <string name="action_settings">Settings</string>
+    <string name="rreth_nesh">Rreth Nesh</string>
+    <string name="title_activity_scrolling">Bëj një ankesë</string>
+    <string name="fourthElOfAbout">Denis Paluca</string>
+    <string name="firstElOfAbout">info@idp.al</string>
+    <string name="secondElOfAbout">+355 42 237200</string>
+    <string name="thirdElOfAbout">+355 42 233977</string>
+    <string name="FifthElOfAbout">Rr. e Kavajës, Nd.80, H.1, Tiranë</string>
+    <string name="chosen">Identifikimi u zgjodh</string>
+    <string name="uploadID">Vendos ID</string>
+    <string name="ok">Vazhdo</string>
+    <string name="passDialogTitle">Vendos fjalëkalmin e email-it</string>
+    <string name="captchatitle">Plotëso</string>
+    <string name="info">Me anë të aplikacionit IDP Ankesa çdo përdorues ka mundësi për të dërguar një ankesë  drejt Komisionerit Për Të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale.
+        Për të kryer ankesën çdokush duhet të plotësoj formularin me të dhënat bazë të tij si dhe ankesën që do bëj.</string>
+    <string name="fifthElOfAbout">www.idp.al</string>
+    <string name="phonePick">Zgjidh nga celulari</string>
+    <string name="shootPhoto">Bëj foto</string>
+    <string name="drawSignature">Vizato firmën tënde</string>
+    <string name="sqarime">Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale, me marrjen e një ankese, i kërkon ankuesit dhe organit publik kundër të cilit është bërë ankesa, të paraqesin parashtrime me shkrim brenda 10 ditësh. Kur e sheh të përshtatshme Komisioneri organizon një seancë dëgjimore publike me pjesëmarrjen e palëve.</string>
+    <string name="clear">Fshije</string>
+    <string name="save">Ruaje</string>
+</resources>

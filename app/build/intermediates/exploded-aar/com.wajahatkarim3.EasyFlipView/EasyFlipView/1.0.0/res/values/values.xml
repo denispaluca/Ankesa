@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="easy_flip_view"><attr format="boolean" name="flipOnTouch"/><attr format="integer" name="flipDuration"/><attr format="boolean" name="flipEnabled"/></declare-styleable>
+    <integer name="anim_length">500</integer>
+    <integer name="anim_length_half">250</integer>
+    <string name="app_name">EasyFlipView</string>
+</resources>
